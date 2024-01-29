@@ -8,7 +8,7 @@ Come and chat with us on Discord!
 
 [![Discord](https://img.shields.io/discord/1091306623819059300?color=7289da&label=Discord&logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/invite/m3TBB9XEkb)
 
-Check out our Huggingface contributions: [Blibla on Huggingface]( https://huggingface.co/Blib-la)
+🤗 Check out our Huggingface contributions: [Blibla on Huggingface]( https://huggingface.co/Blib-la)
 
 ### 💖 Show Your Support
 
